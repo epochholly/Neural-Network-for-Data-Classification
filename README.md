@@ -6,7 +6,7 @@ The project is using an insurance data set. The purpose is to use the numeric at
 ## Neural Network: Forward Propagation and Error Backpropagation.
 - Take 66% for training. Used Stratified sampling, 2 strata.
 - Used one hidden layers, Sigmoid activation. 
-- $L^2$ regularized cost function.
+- $$L^2$$ regularized cost function.
 
 
 
